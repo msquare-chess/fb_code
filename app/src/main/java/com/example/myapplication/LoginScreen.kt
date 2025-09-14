@@ -22,7 +22,7 @@ class LoginScreen : AppCompatActivity() {
         }
         val btn = findViewById<Button>(R.id.btn_login)
         btn.setOnClickListener {
-            Toast.makeText(this, "Login Clicked", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Login Clicked now", Toast.LENGTH_SHORT).show()
         }
 
         btn.setOnLongClickListener(object : View.OnLongClickListener {
