@@ -5,9 +5,10 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Register_Screen">
+    tools:context=".RegisterScreen">
 
-    <TextView
+    <Button
+        android:id="@+id/btn_register"
         android:textSize="35dp"
         android:text="This is Register Screen"
         android:textStyle="bold"
