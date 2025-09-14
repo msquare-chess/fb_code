@@ -8,11 +8,11 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:textSize="35dp"
+        android:textSize="30dp"
         android:textStyle="bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ft Password"
+        android:text="Ft Password Optmized"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
